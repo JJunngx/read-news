@@ -15,4 +15,4 @@
 1. Clone repository:
    ```bash
    git clone https://github.com/JJunngx/read-news.git
-  
+  cd read-news
